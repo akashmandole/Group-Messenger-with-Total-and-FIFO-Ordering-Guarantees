@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/soccer/AndroidStudioProjects/GroupMessenger2-akash/C:\\Users\\Akash\\AndroidStudioProjects\\GroupMessenger2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "/home/soccer/AndroidStudioProjects/GroupMessenger2-akash/C:\\Users\\Akash\\AndroidStudioProjects\\GroupMessenger2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/soccer/AndroidStudioProjects/GroupMessenger2-akash/C:\\Users\\Akash\\AndroidStudioProjects\\GroupMessengerBackup\\GroupMessenger2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "/home/soccer/AndroidStudioProjects/GroupMessenger2-akash/C:\\Users\\Akash\\AndroidStudioProjects\\GroupMessengerBackup\\GroupMessenger2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/soccer/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/soccer/AndroidStudioProjects/GroupMessenger2/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/soccer/AndroidStudioProjects/GroupMessenger2-akash/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/soccer/AndroidStudioProjects/GroupMessenger2-akash/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
